@@ -1,7 +1,7 @@
 require 'sinatra'
 
 get '/' do
-  'Hello world'
+  'Hello Wyncode'
 end
 get '/wyncode' do
   'Hello World'
